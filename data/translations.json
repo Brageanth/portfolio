@@ -1,0 +1,38 @@
+{
+  "available_now": {
+    "en": "AVAILABLE NOW",
+    "es": "DISPONIBLE AHORA"
+  },
+  "projects": {
+    "en": "Projects",
+    "es": "Proyectos"
+  },
+  "about": {
+    "en": "About",
+    "es": "Informacion"
+  },
+  "contact": {
+    "en": "Contact",
+    "es": "Contactame"
+  },
+  "developer": {
+    "en": "DEVELOPER",
+    "es": "DESARROLLADOR"
+  },
+  "dark": {
+    "en": "DARK",
+    "es": "OSCURO"
+  },
+  "light": {
+    "en": "LIGHT",
+    "es": "CLARO"
+  },
+  "slogan": {
+    "en": "Building apps that are utils for the final users and simplify your lives",
+    "es": "Contruyendo aplicaciones que sean utiles para el usuario final y simplifique sus vidas"
+  },
+  "bio": {
+    "en": "Born in 1998 in Bogota, Colombia. I think the web has many possibilities for making more efficient our lives. I am passionate about development challenges and discovering new possibilities at the code therefore I try to learn something new every day",
+    "es": "Naci en 1998 en Bogota, Colombia. Pienso que la web tiene muchas posibilidades para hacer mas eficientes nuestras vidas. Me apacionan los retos de desarrollo y descubrir nuevas posibilidades en el codigo, por esto todos los dias intento aprender algo nuevo"
+  }
+}
