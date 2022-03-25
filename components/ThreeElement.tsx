@@ -55,7 +55,7 @@ const ThreeElement: NextPage = () => {
 
       if (window.innerWidth > window.innerHeight) {
         renderer.setSize(
-          ref.current?.offsetWidth * 2.15,
+          ref.current?.offsetWidth * 1.15,
           ref.current?.offsetWidth * 1.15
         );
       } else {
